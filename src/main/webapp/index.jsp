@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<img src="/images/family-tree.jpg" alt="Degala family">
+<img src="family-tree.jpg" alt="Degala family" height="500" width="1000" align="center">
 
 </body>
 </html>
