@@ -1,5 +1,7 @@
 <html>
 <body>
-<h2>Hello Siva sankar!</h2>
+
+<img src="images/family-tree.jpg" alt="Degala family">
+
 </body>
 </html>
